@@ -1,5 +1,5 @@
 # AssignmentLRUCache
-LRUCache is a caching project with LRU(Least Recently Used) cache-policy.
+AssignmentLRUCache is a caching project with LRU(Least Recently Used) cache-policy.
 
 ## Structure/Design
 
