@@ -1,0 +1,5 @@
+com.assignment.client
+com.assignment.engine
+com.assignment.engine.cachepolicy
+com.assignment.engine.dba
+com.assignment.engine.ds
